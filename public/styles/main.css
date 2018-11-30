@@ -1,6 +1,6 @@
 body {
   width: 1962px;
-  height: 2000px; }
+  height: 2962px; }
 
 header {
   width: 1410px;
@@ -297,7 +297,8 @@ p {
   height: 551px;
   width: 1486px;
   margin-top: 719px;
-  margin-left: 232px; }
+  margin-left: 232px;
+  padding-bottom: 142px; }
 
 .products p {
   width: 1456px;
@@ -467,3 +468,43 @@ p {
   width: 80px;
   height: 17px;
   margin: 11px 0 0 25px; }
+
+.about {
+  width: 1412px;
+  height: 580px;
+  margin-left: 253px; }
+  .about_left_box {
+    float: left;
+    width: 706px;
+    height: 580px;
+    background: linear-gradient(201.19deg, rgba(40, 38, 150, 0.98) 24.1%, #09ABE4 123.85%), url(../images/pattern.png);
+    background-size: contain; }
+  .about_right_box {
+    float: left;
+    width: 706px;
+    height: 580px;
+    background: url(../images/beach.jpg);
+    background-position: center;
+    background-size: cover; }
+  .about-first-text {
+    width: 202px;
+    height: 47.26px;
+    margin-left: 50px;
+    margin-top: 60px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 30px;
+    color: #FFFFFF; }
+  .about-second-text {
+    width: 603px;
+    height: 388.81px;
+    left: 50px;
+    margin-top: 26.74px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 26px;
+    font-size: 18px;
+    color: #FFFFFF; }

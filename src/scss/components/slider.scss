@@ -1,0 +1,89 @@
+.slider{
+position: absolute;
+width: 1409px;
+height: 548px;
+left: 255px;
+top: 281px;
+padding-bottom: 120px;
+}
+
+.left_box{
+width: 600px;
+height: 548px;
+background: linear-gradient(203.32deg, rgba(40, 38, 150, 0.98) 24.1%, #09ABE4 123.85%), url(../images/pattern.png);
+background-size: cover;
+}
+
+.right_box{
+position: absolute;
+width: 809px;
+height: 548px;
+left: 600px;
+top: 0px;
+
+background: url(../images/pexels-photo-907267.jpg);
+background-size: cover;
+}
+
+.new_collect {
+position: absolute;
+width: 366px;
+height: 87px;
+left: 90px;
+top: 161px;
+}
+
+.new_collect p {
+margin: auto;
+font-family: Lato;
+font-style: normal;
+font-weight: 600;
+line-height: 43px;
+font-size: 40px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+}
+
+.all_assort {
+position: absolute;
+width: 480px;
+height:i 41px;
+left: 90px;
+top: 274px;
+}
+
+.all_assort p {
+margin: auto;
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+line-height: 24px;
+font-size: 18px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+}
+
+.button_slider {
+position: absolute;
+width: 230px;
+height: 50px;
+left: 90px;
+top: 336px;
+
+border: 0.75px solid #FFFFFF;
+box-sizing: border-box;
+}
+
+.button_slider p{
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+line-height: 15px;
+font-size: 14px;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}

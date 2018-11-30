@@ -1,0 +1,25 @@
+.menu {
+  position: absolute;
+  width: 1480px;
+  height: 20px;
+  left: 225px;
+  top: 198.88px;
+  padding-bottom: 34px; }
+
+.menu ul li {
+  display: inline-block;
+  width: 176.25px; }
+
+.menu a {
+  text-decoration: none;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #333333; }
+
+.menu a:hover {
+  color: #09ABE4; }
